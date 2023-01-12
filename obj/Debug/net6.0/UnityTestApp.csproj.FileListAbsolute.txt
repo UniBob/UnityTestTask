@@ -1,0 +1,15 @@
+C:\Users\UniBob\source\repos\UnityTestApp\UnityTestApp\bin\Debug\net6.0\UnityTestApp.exe
+C:\Users\UniBob\source\repos\UnityTestApp\UnityTestApp\bin\Debug\net6.0\UnityTestApp.deps.json
+C:\Users\UniBob\source\repos\UnityTestApp\UnityTestApp\bin\Debug\net6.0\UnityTestApp.runtimeconfig.json
+C:\Users\UniBob\source\repos\UnityTestApp\UnityTestApp\bin\Debug\net6.0\UnityTestApp.dll
+C:\Users\UniBob\source\repos\UnityTestApp\UnityTestApp\bin\Debug\net6.0\UnityTestApp.pdb
+C:\Users\UniBob\source\repos\UnityTestApp\UnityTestApp\obj\Debug\net6.0\UnityTestApp.csproj.AssemblyReference.cache
+C:\Users\UniBob\source\repos\UnityTestApp\UnityTestApp\obj\Debug\net6.0\UnityTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UniBob\source\repos\UnityTestApp\UnityTestApp\obj\Debug\net6.0\UnityTestApp.AssemblyInfoInputs.cache
+C:\Users\UniBob\source\repos\UnityTestApp\UnityTestApp\obj\Debug\net6.0\UnityTestApp.AssemblyInfo.cs
+C:\Users\UniBob\source\repos\UnityTestApp\UnityTestApp\obj\Debug\net6.0\UnityTestApp.csproj.CoreCompileInputs.cache
+C:\Users\UniBob\source\repos\UnityTestApp\UnityTestApp\obj\Debug\net6.0\UnityTestApp.dll
+C:\Users\UniBob\source\repos\UnityTestApp\UnityTestApp\obj\Debug\net6.0\refint\UnityTestApp.dll
+C:\Users\UniBob\source\repos\UnityTestApp\UnityTestApp\obj\Debug\net6.0\UnityTestApp.pdb
+C:\Users\UniBob\source\repos\UnityTestApp\UnityTestApp\obj\Debug\net6.0\UnityTestApp.genruntimeconfig.cache
+C:\Users\UniBob\source\repos\UnityTestApp\UnityTestApp\obj\Debug\net6.0\ref\UnityTestApp.dll
